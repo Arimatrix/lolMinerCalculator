@@ -7,3 +7,4 @@ YOU'LL NEED TO ENABLE LOGGING IN LOLMINER BATCH FILE. <br />
 Run the exe <br />
 Paste the logs folder path <br />
 Hit Enter <br />
+Updates File Saving Location
